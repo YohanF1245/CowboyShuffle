@@ -1,4 +1,9 @@
 # Cowboy shuffle
+## Summary
+- [About](#-about)
+- [Motivation](#-motivation)
+- [Tech used](#️-tech-used)
+- [Usage](#️-usage)
 ![image](/img/cowboy-codeur.webp)
 
 ## 📋 About
@@ -15,6 +20,6 @@ My motivation was to streamline the group-mixing process, allowing it to happen 
 
 This project follows the "cowboy coding" method, a bold, fast-paced approach often credited to @HachemiH. It embraces spontaneity and quick decision-making, prioritizing rapid development and flexibility over formal processes.
 
-## Usage
+##  🛠️ Usage
 
-go
+For detailed instructions on how to use our service, please [Cowboy shuffle](https://yohanf1245.github.io/CowboyShuffle/). Once on the website, simply navigate to the homepage and click on the shuffle button to get started. It's quick and easy to follow!
