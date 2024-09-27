@@ -1,0 +1,24 @@
+div{
+    box-sizing: border-box!important;
+}
+.vh30{
+    height: 30vh!important;
+}
+.vh10{
+    height:10vh!important;
+}
+.vh20{
+    height:20vh!important;
+}
+.vw10{
+    width: 10vw!important;
+}
+.vw30{
+    width: 30vw!important;
+}
+.vw40{
+    width: 40vw!important;
+}
+.vw20{
+    width: 20vw!important;
+}
